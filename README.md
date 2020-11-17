@@ -1,2 +1,2 @@
-# WebApp
-Company blog
+# SGC
+Company website
